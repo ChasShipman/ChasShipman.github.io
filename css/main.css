@@ -1,0 +1,61 @@
+@charset "utf-8";
+	.NormalCharacterStyle
+{
+	font-family : Century Gothic;
+	font-weight : bold;
+	font-style : italic;
+	font-size : 88px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-outline : #000000;
+	text-outline : rgb(0, 0, 0);
+}
+.picture_holder_1_
+{
+	background-image : url(picture_holder_1_.png);
+	background-repeat : no-repeat;
+}
+.check_out_app_button
+{
+	background-image : url(check_out_app_button.png);
+	background-repeat : no-repeat;
+}
+.cmfc_logo_button
+{
+	background-image : url(cmfc_logo_button.png);
+	background-repeat : no-repeat;
+}
+.NormalCharacterStyle1
+{
+	font-family : Century Gothic;
+	font-weight : bold;
+	font-size : 18px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle2
+{
+	font-family : Century Gothic;
+	font-weight : bold;
+	font-size : 18px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle4
+{
+	font-family : Century Gothic;
+	font-weight : bold;
+	font-size : 18px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle3
+{
+	font-family : Century Gothic;
+	font-weight : bold;
+	font-size : 18px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.background_content
+{
