@@ -166,11 +166,23 @@ footer ul li{
  display:block;
  list-style: none;
  
+ 
 }
 footer ul li a{
 font-family:Poiret One;
-    	font size: 14px;
-    	color:#ff;
+    	font size: 24px;
+    	color:#fff;
+	line-height:30px;
 }	
+.footer-sm{
+  width:60px;
+  float: right;	
+	
+}
+.footer-sm img{
+  width:100%;
+  margin:bottom:10px
+}	  
+	  
 	
  
