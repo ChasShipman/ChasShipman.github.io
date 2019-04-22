@@ -101,7 +101,7 @@ header{
 .index-banner{ 
 	width: 100%;
 	height: calc(100vh-100px);
-	background-image: url("cmfc_logo_button.png");
+	background-image: url("better_image.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -155,7 +155,7 @@ footer{
  width:calc(100%-80px);
  padding: 40px 40px;
  margin-top:20px 
- background-color:#111;
+ background-color:#fff;
 }
 footer ul {
  width: fit-content;
@@ -171,7 +171,7 @@ footer ul li{
 footer ul li a{
 font-family:Poiret One;
     	font size: 24px;
-    	color:#fff;
+    	color:#111;
 	line-height:30px;
 }	
 .footer-sm{
