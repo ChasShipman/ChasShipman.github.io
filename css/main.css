@@ -71,5 +71,22 @@ header{
 	  text-align: center;
 	  padding:20px 0;
 	  
-    
+}
+	header nav ul {
+		
+		
+}
+	header nav ul li {
+	display: inline-block;
+	float left;
+	list-style: none;
+	
+		
+}
+	header nav ul li a{
+	font-family:Poiret One;
+    	font size: 24px;
+    	color:#111;
+		
+		
 }
