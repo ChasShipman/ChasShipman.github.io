@@ -53,7 +53,7 @@ table {
 }
 
 body{
-  background-color:#7a9e9f;
+  background-color:#afc4c5;
 }
 header{
   background-color:#fff;
@@ -101,7 +101,7 @@ header{
 .index-banner{ 
 	width: 100%;
 	height: calc(100vh-100px);
-	background-image: url('css/cmfc_logo_button.png');
+	background-image: url("cmfc_logo_button.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -131,11 +131,28 @@ header{
 	text-align:center;
 	text-shadow: 2px 2px 8px #111;
 }
-.index-boxlink-1{
-	margin:16px;
+.index-links div {
+	margin:16px 16px 0;
 	width: calc(100%-32px);
 	height: 100px;
 	background-color:#d7e1e2;
 	
 	
+}
+.index-links div h3 {
+	font-family:Poiret One;
+    	font size: 28px;
+	font-weight:600; 
+	font-style: italic;
+	line-height: 100px;
+    	color:#fff;
+	text-align:center;
+	text-shadow: 2px 2px 8px #111;
+	text-transform: uppercase;
+}
+/*Footer*/
+footer{
+ width:calc(100%-80px);
+ padding: 40px 40px;
+ background-color:#111;
 }
