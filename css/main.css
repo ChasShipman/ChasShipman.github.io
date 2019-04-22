@@ -86,10 +86,7 @@ header{
 	float left;
 	list-style: none;
 	padding: 0 16px;
-		
-	
-		
-}
+	}
 	header nav ul li a{
 	font-family: 'Inconsolata', monospace;
 	font size: 16px;
@@ -109,6 +106,12 @@ header{
 	margin: 20px 0px 0px 20px;
 	float:left;		
 	}
+	header nav ul li {
+	display: inline-block;
+	float left;
+	list-style: none;
+	padding: 0 16px;
+	{
 	header nav ul li a{
 	line-height: 60px
 	}
@@ -169,6 +172,10 @@ header{
 	text-transform: uppercase;
 }
 	@media only screen and (min-width: 1000px){
+	.wrapper{
+	   width:1000px;
+	   margin: 0 auto;
+		}
 	.index-banner{ 
 	height: 450px;
 	}
@@ -177,6 +184,15 @@ header{
 	width: 560px;
 	margin: 0 auto;
  }
+	.index-links div {
+	margin: 10px 16px 0;
+	width: calc(100%-32px);
+	height: 100px;
+	background-color:#e4ebeb;
+}
+	.index-boxlink-square{
+		
+		}	
 }
 /*Footer*/
 footer{
