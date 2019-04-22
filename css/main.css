@@ -73,6 +73,10 @@ header{
 	  
 }
 	header nav ul {
+	display:block;
+	margin: 0 auto;
+	width: fit-content; 
+		
 		
 		
 }
@@ -91,4 +95,14 @@ header{
     	color:#111;
 		
 		
+}
+
+/*Index*/
+.index-banner{ 
+	width: 100%;
+	height: 100vh;
+	background-image: url('css/cmfc_logo_button.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
