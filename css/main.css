@@ -154,7 +154,7 @@ header{
 	text-shadow: 2px 2px 8px #111;
 }
 .index-links div {
-	margin:16px 16px 0;
+	margin:10px 10px 0;
 	width: calc(100%-32px);
 	height: 100px;
 	background-color:#e4ebeb;
@@ -169,7 +169,6 @@ header{
 	line-height: 100px;
     	color:#fff;
 	text-align:center;
-	text-shadow: 2px 2px 8px #111;
 	text-transform: uppercase;
 }
     @media only screen and (min-width: 1000px) {
@@ -180,19 +179,18 @@ header{
 	.index-banner{ 
 	height: 450px;
 	}
-	.index-banner h{
+	.index-banner h1{
 	display: block;
 	width: 560px;
 	margin: 0 auto;
  }
 	.index-links div {
 	margin: 10px 16px 0;
-	width: calc(100%-32px);
 	height: 100px;
 	background-color:#e4ebeb;
 }
 	.index-boxlink-square{
-		
+	 width calc(25% - 32px);	
 		}	
 }
 /*Footer*/
