@@ -108,7 +108,7 @@ header{
 	display:table;
 	
 }
- .vertical-center;{
+ .vertical-center{
 	display:table-cell;
 	vertical-align:middle;	
 }
@@ -130,4 +130,12 @@ header{
     	color:#fff;
 	text-align:center;
 	text-shadow: 2px 2px 8px #111;
+}
+.index-boxlink-1{
+	margin:16px;
+	width: calc(100%-32px);
+	height: 100px;
+	background-color:#d7e1e2;
+	
+	
 }
