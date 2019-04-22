@@ -46,6 +46,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/*My Code*/
+
+*{ 
+	text-decoration: none;
+}
 
 body{
   background-color:#7a9e9f;
