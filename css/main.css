@@ -207,7 +207,7 @@ header .header-cases {
 
 @media screen and (max-width: 650px) {
   .column {
-    width: 100%;
+    width: 25%;
     display: block;
   }
 }
@@ -373,7 +373,7 @@ header .header-cases {
   text-transform: uppercase;
 }
 
-/*CASE*/
+/*Feature*/
 
 .case-vid h2 {
   font-family: 'Raleway', sans-serif;
