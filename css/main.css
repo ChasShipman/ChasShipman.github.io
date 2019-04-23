@@ -191,7 +191,7 @@ header .header-cases {
 /*Here we style the main content for the mobile version*/
 .index-banner {
   width: 100%;
-  height: calc(100vh - 100px);
+  height: calc(85vh - 100px);
   background-image: url('better_image.jpg');
   background-repeat: no-repeat;
   background-position: center;
