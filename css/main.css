@@ -409,6 +409,34 @@ header .header-cases {
   column-count: 3;
   column-gap: 30px;
 }
+/*Faq body*/
+.FaqCheck div faqHeader{
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  color: #111;
+  text-align: center;
+  text-transform: uppercase;
+	
+}
+ .FaqCheck div panel-title{
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  color: #111;
+  text-align: center;
+  text-transform: uppercase;
+	
+}
+.FaqCheck div panel-heading{
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  color: #111;
+  text-align: center;
+  text-transform: uppercase;
+	
+}
 
 /*FOOTER*/
 
