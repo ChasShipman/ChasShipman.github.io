@@ -221,6 +221,8 @@ header .header-cases {
 }
 
 .title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;	
   color: #111;
 }
 
