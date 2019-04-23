@@ -195,9 +195,8 @@ header .header-cases {
  box-sizing: border-box;
 }
 
-*, *:before, *:after {
   box-sizing: border-box;
-}
+
 
 .column {
   float: left;
