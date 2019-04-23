@@ -192,6 +192,15 @@ header .header-cases {
   }
 }
 /*If something goes wrong*/
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  float: left;
+  width: 25%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  padding: 50px; /* if you want space between the images */
+}
 .column {
   clear: both;
   width: 25%;
