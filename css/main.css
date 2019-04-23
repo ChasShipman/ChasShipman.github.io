@@ -117,7 +117,7 @@ header {
 }
 
 header .header-brand {
-  font-family: Catamaran;
+  font-family: 'Raleway', sans-serif;
   font-size: 24px;
   font-weight: 900;
   color: #111;
@@ -142,7 +142,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-  font-family: Catamaran;
+  font-family: 'Raleway', sans-serif;
   font-size: 16px;
   color: #111;
   text-transform: uppercase;
@@ -174,7 +174,7 @@ header .header-cases {
 
   header .header-cases {
     display: block;
-    font-family: Catamaran;
+    font-family: 'Raleway', sans-serif;
     font-size: 16px;
     color: #111;
     text-transform: uppercase;
@@ -205,7 +205,7 @@ header .header-cases {
 }
 
 .index-banner h2 {
-  font-family: Catamaran;
+  font-family: 'Raleway', sans-serif;
   font-size: 60px;
   font-weight: 900;
   line-height: 70px;
@@ -233,7 +233,7 @@ header .header-cases {
 }
 
 .index-links div h3 {
-  font-family: Catamaran;
+  font-family: 'Raleway', sans-serif;
   font-size: 28px;
   font-weight: 600;
   line-height: 100px;
@@ -305,7 +305,7 @@ footer ul li {
 }
 
 footer ul li a {
-  font-family: Catamaran;
+  font-family: 'Raleway', sans-serif;
   font-size: 24px;
   color: #fff;
   line-height: 40px;
@@ -336,7 +336,7 @@ footer ul li a {
   }
 
   footer ul li p {
-    font-family: Catamaran;
+    font-family: 'Raleway', sans-serif;
     font-size: 24px;
     color: #fff;
     line-height: 40px;
