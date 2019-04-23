@@ -224,7 +224,8 @@ header .header-cases {
 
 .container {
   font-family: 'Raleway', sans-serif;
-  font-size: 12px;	
+  font-size: 24px;
+  font-weight: bold;
   color: #111;	
   padding: 0 5px;
 }
