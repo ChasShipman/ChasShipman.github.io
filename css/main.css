@@ -192,12 +192,6 @@ header .header-cases {
   }
 }
 /*If something goes wrong*/
- box-sizing: border-box;
-}
-
-  box-sizing: border-box;
-
-
 .column {
   float: left;
   width: 25%;
