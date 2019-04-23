@@ -201,7 +201,7 @@ header .header-cases {
 
 @media screen and (max-width: 650px) {
   .column {
-    width: 50%;
+    width: 20%;
     display: block;
   }
 }
@@ -211,6 +211,9 @@ header .header-cases {
 }
 
 .container {
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;	
+  color: #111;	
   padding: 0 5px;
 }
 
