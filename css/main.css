@@ -197,7 +197,7 @@ header .header-cases {
 }
 
 .box {
-  float: left;
+  clear: both;
   width: 25%; /* three boxes (use 25% for four, and 50% for two, etc) */
   padding: 50px; /* if you want space between the images */
 }
@@ -231,13 +231,13 @@ header .header-cases {
   clear: both;
   display: table;
   font-family: 'Raleway', sans-serif;
-  font-size: 12px;	
+  font-size: 24px;	
   color: #111;
 }
 
 .title {
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;	
+  font-size: 12px;	
   color: #111;
 }
 
