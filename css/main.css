@@ -191,77 +191,8 @@ header .header-cases {
     padding: 0 20px;
   }
 }
-/*If something goes wrong*/
-* {
-  box-sizing: border-box;
-}
 
-.box {
-  float: left;
-  width: 50; /* three boxes (use 25% for four, and 50% for two, etc) */
-  padding: 10px; /* if you want space between the images */
-}
-.column {
-  clear: both;
-  width: 25%;
-  margin-bottom: 16px;
-  padding: 0 8px;
-}
-
-@media screen and (max-width: 650px) {
-  .column {
-    width: 25%;
-    display: block;
-  }
-}
-
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  font-family: 'Raleway', sans-serif;
-  font-size: 16px;
-  color: #111;
-}
-
-.container {
-  font-family: 'Raleway', sans-serif;
-  font-size: 24px;
-  font-weight: bold;
-  color: #111;	
-  padding: 0 5px;
-}
-
-.container::after, .row::after {
-  content: "";
-  clear: both;
-  display: table;
-  font-family: 'Raleway', sans-serif;
-  font-size: 24px;	
-  color: #111;
-}
-
-.title {
-  font-family: 'Raleway', sans-serif;
-  font-size: 24px;
-  font-weight: bold;	
-  color: #111;
-}
-
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: #111;
-  background-color: #c9d8d8;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-}
-
-.button:hover {
-  background-color: #555;
-}
-/*If something goes wrong*/
+/*INDEX*/
 
 .index-banner {
   width: 100%;
@@ -289,7 +220,7 @@ header .header-cases {
 }
 
 .index-banner h1 {
-  font-family: 'Raleway', sans-serif;
+  font-family: Cormorant Garamond;
   font-size: 28px;
   font-weight: 100;
   font-style: italic;
@@ -339,7 +270,7 @@ header .header-cases {
   .index-links div {
     margin: 20px 10px 0;
     height: 230px;
-    background-color: #c9d8d8;
+    background-color: #f2f2f2;
     float: left;
   }
 
@@ -389,7 +320,7 @@ header .header-cases {
   text-transform: uppercase;
 }
 
-/*Feature*/
+/*CASE*/
 
 .case-vid h2 {
   font-family: 'Raleway', sans-serif;
@@ -424,34 +355,6 @@ header .header-cases {
   text-transform: uppercase;
   column-count: 3;
   column-gap: 30px;
-}
-/*Faq body*/
-.FaqCheck div faqHeader{
-  font-family: 'Raleway', sans-serif;
-  font-size: 28px;
-  font-weight: 600;
-  color: #111;
-  text-align: center;
-  text-transform: uppercase;
-	
-}
- .FaqCheck div panel-title{
-  font-family: 'Raleway', sans-serif;
-  font-size: 28px;
-  font-weight: 600;
-  color: #111;
-  text-align: center;
-  text-transform: uppercase;
-	
-}
-.FaqCheck div panel-heading{
-  font-family: 'Raleway', sans-serif;
-  font-size: 28px;
-  font-weight: 600;
-  color: #111;
-  text-align: center;
-  text-transform: uppercase;
-	
 }
 
 /*FOOTER*/
@@ -513,6 +416,7 @@ footer ul li a {
     text-transform: uppercase;
   }
 }
+
 
  
 
